@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -30,7 +29,7 @@ resourcepacks/
 saves/
 schematics/
 XaeroWaypoints/
-XaeroWaypoints_BACKUP062020/
+XaeroWaypoints_*/
 XaeroWorldMap/
 hotbar.nbt
 options.nbt
