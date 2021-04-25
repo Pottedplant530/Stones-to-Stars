@@ -100,6 +100,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_spanorama.key.createPanorama:key.keyboard.grave.accent
 key_Toggle Wearables Gui:key.keyboard.unknown
 key_Activate  FINGER 0:key.keyboard.unknown
 key_Activate  FINGER 1:key.keyboard.unknown
@@ -115,8 +116,8 @@ key_Activate  EAR 1:key.keyboard.unknown
 key_Activate  EYE:key.keyboard.unknown
 key_Activate  HAT:key.keyboard.unknown
 key_key.inventorysorter.itemout:key.mouse.102
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.mouse.middle
+key_key.inventorysorter.itemin:key.mouse.100
 key_key.mekanism.mode:key.keyboard.n
 key_key.mekanism.head_mode:key.keyboard.v
 key_key.mekanism.chest_mode:key.keyboard.g
@@ -132,10 +133,27 @@ key_key.endergetic.booflo_slam:key.keyboard.x
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.y
 key_crafts.key.up:key.keyboard.unknown
 key_crafts.key.down:key.keyboard.unknown
 key_crafts.key.right:key.keyboard.unknown
 key_crafts.key.left:key.keyboard.unknown
+key_EditTrainer:key.keyboard.unknown
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_key.pokemob.next:key.keyboard.right
 key_key.pokemob.prev:key.keyboard.left
 key_key.pokemob.move.next:key.keyboard.down
@@ -157,23 +175,6 @@ key_key.pokemob.arrangegui:key.keyboard.unknown
 key_key.pokemob.animategui:key.keyboard.unknown
 key_key.pokemob.gzmove:key.keyboard.unknown
 key_NBTEdit Shortcut:key.keyboard.unknown
-key_EditTrainer:key.keyboard.unknown
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
-key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
-key_gui.xaero_toggle_slime:key.keyboard.unknown
-key_gui.xaero_toggle_grid:key.keyboard.unknown
-key_gui.xaero_toggle_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.z
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.unknown
-key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
-key_gui.xaero_display_all_sets:key.keyboard.unknown
-key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_open_map:key.keyboard.n
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown

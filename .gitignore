@@ -25,6 +25,7 @@ addons/
 crash-reports/
 defaultconfigs/
 logs/
+panoramas/
 resourcepacks/
 saves/
 schematics/
@@ -36,3 +37,5 @@ options.nbt
 realms_persistence.json
 usercache.json
 usernamecache.json
+config/spanorama-client.toml
+mods/spanorama-1.4.2.jar
