@@ -1,0 +1,16 @@
+{
+	"x": -156,
+	"y": -20,
+	"width": 312,
+	"height": 50,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 0,
+	"texWidth": 312,
+	"texHeight": 50,
+	"texture": "packmenu:textures/gui/title.png",
+	"action": "NONE",
+	"anchor": "DEFAULT_LOGO",
+	"active": "false"
+}
