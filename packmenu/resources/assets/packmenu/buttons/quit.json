@@ -1,9 +1,0 @@
-{
-	"x": -66,
-	"y": -42,
-	"width": 57,
-	"height": 20,
-	"langKey": "menu.quit",
-	"action": "QUIT",
-	"anchor": "BOTTOM_RIGHT"
-}
