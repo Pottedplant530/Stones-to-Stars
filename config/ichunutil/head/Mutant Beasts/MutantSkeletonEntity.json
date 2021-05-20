@@ -1,0 +1,17 @@
+{
+  "author": "Cartartnr",
+  "forClass": "chumbanotz.mutantbeasts.entity.mutant.MutantSkeletonEntity",
+  "modelFieldName": "skeleBase.pelvis.waist.pelvis_0_0.pelvis_0_0_2.pelvis_0_0_2_2.neck.head.pelvis_0_0_2_2_2_0_0",
+  "eyeOffset": [
+    0.0,
+    0.21875,
+    0.28125
+  ],
+  "halfInterpupillaryDistance": 0.140625,
+  "headTopCenter": [
+    0.0,
+    0.51875,
+    0.0
+  ],
+  "headScale": 1.1
+}
