@@ -12,7 +12,7 @@
 [custom_armor]
 
 	[custom_armor.sample]
-		stunArmor = 0.0
+		stun_armor = 0.0
 		weight = 0.0
 		registry_name = "epicfight:registryname"
 
