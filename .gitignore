@@ -35,6 +35,7 @@ XaeroWaypoints/
 XaeroWaypoints_*/
 XaeroWorldMap/
 hotbar.nbt
+imm_ptl_state.json
 options.nbt
 realms_persistence.json
 usercache.json
