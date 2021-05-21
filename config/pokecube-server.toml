@@ -7,7 +7,7 @@
 
 [advanced]
 	# If true, vanilla mobs are treated as pokemobs as well
-	vanilla_pokemobs = false
+	vanilla_pokemobs = true
 	# Pokemobs larger than this are treated a bit differently to try to reduce lag when they move around
 	largeMobForSplit = 2.0
 	# If true, mobs added by other mods are treated as pokemobs as well

@@ -335,5 +335,5 @@
 	# Mob IDs which are blacklisted from going into snag cubes
 	snag_cube_blacklist = ["ender_dragon", "wither"]
 	# If true, you will be prompted to choose a pokemob when creating a world, without having to look for a professor
-	guiOnLogin = false
+	guiOnLogin = true
 
